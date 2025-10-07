@@ -19,3 +19,7 @@ MIIEogIBAAKCAQEArYxrNYD\/iT5CZVpRJu4rBKmmze3PVmT\/gCo2ATUvDvZTPTey\\nxcGJ3vvrJXa
 
 
 com.ormuspay
+
+password = '1234aefij91234'
+api_key = yu.29rskeapiAIjepkjfa
+
